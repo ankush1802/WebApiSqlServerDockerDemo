@@ -1,0 +1,16 @@
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\WebApiSqlServerDockerDemo.deps.json
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\WebApiSqlServerDockerDemo.runtimeconfig.json
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\appsettings.Development.json
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\appsettings.json
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\WebApiSqlServerDockerDemo.exe
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\WebApiSqlServerDockerDemo.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\Microsoft.Identity.Client.dll
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\bin\Debug\WebApiSqlServerDockerDemo.pdb
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Projects\Docker Demo\WebApiSqlServerDockerDemo\WebApiSqlServerDockerDemo\obj\Debug\docker-compose.dcproj.CopyComplete

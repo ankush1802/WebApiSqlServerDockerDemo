@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  webapisqlserverdockerdemo:
+    image: ${DOCKER_REGISTRY-}webapisqlserverdockerdemo
+    build:
+      context: .
+      dockerfile: WebApiSqlServerDockerDemo/Dockerfile
+  SqlServerDb:
+        container_name: SqlServerContainer
+        image: mcr.microsoft.com/mssql/server:2017-latest
+        ports:
+            - 8002:1433
+        environment:
+            - ACCEPT_EULA=Y
+            - MSSQL_SA_PASSWORD=myStong_Password123#
+  WebApi:
+        container_name: WebApiContainer
+        image: ${DOCKER_REGISTRY-}webapisqlserverdockerdemo
+        ports:
+            - 8001:80 
+        build:
+          context: .
+          dockerfile: webapisqlserverdockerdemo/Dockerfile
+        depends_on:
+            - SqlServerDb 

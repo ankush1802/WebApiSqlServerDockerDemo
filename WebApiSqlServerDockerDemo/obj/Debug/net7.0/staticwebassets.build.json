@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nocV9zcqNGOX4iUO8reF1O8EN8zQWxhP0XSOHl6DFdE=",
+  "Source": "WebApiSqlServerDockerDemo",
+  "BasePath": "_content/WebApiSqlServerDockerDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

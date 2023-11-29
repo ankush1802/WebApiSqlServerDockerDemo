@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApiSqlServerDockerDemo.props" />
+</Project>
